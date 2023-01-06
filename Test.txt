@@ -4,6 +4,11 @@ This is a Test file for Main, New Branch and Merge
 This is First Commit To main.
 
 
-I Should Merge Both Branchs
+Commit branch
+
+Commit in branch
+
+
+I Should Merge Both Branch.
 
 Thank You..
